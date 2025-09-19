@@ -1,1 +1,11 @@
-sdsd
+ 1. For each of parts (a) through (d), indicate whether we would generally
+ expect the performance of a flexible statistical learning method to be
+ better or worse than an inflexible method. Justify your answer.
+ (a) The sample size n is extremely large, and the number of predic
+tors p is small.
+ (b) The number of predictors p is extremely large, and the number
+ of observations n is small.
+ (c) The relationship between the predictors and response is highly
+ non-linear.
+ (d) The variance of the error terms, i.e. 2 = Var( ), is extremely
+ high.
