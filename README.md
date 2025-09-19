@@ -1,5 +1,10 @@
 # ISLP-
 This is where ISLP practice as well as exercises are attempted </n>
-Lab work - follow through exercises </n>
-Conceptual questions - Every answer is written by me so as to complete the book </n>
-applied question - every question is applied and coded by me so as to complete the book</n>
+ **ISLP Practice & Exercises**  
+  Attempted lab work and followed through all exercises.
+
+- **Conceptual Questions**  
+  Every answer is written by me to complete the book.
+
+- **Applied Questions**  
+  Every question is applied and coded by me to complete the book.
