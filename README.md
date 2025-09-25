@@ -11,4 +11,4 @@ This is where ISLP practice as well as exercises are attempted:
 
 5. **Applied Questions**  
    Every question is applied and coded by me to complete the book.
-   chapter 2 - ongoing
+   chapter 2 - completed
