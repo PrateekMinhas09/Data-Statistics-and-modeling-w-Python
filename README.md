@@ -4,12 +4,12 @@ This is where ISLP practice as well as exercises are attempted:
 1. **Lab Work**  
    Follow along exercises.
    chapter 2 - completed
-   Chapter 3 - ongoing
+   Chapter 3 - completed
 
 3. **Conceptual Questions**  
    Every answer is written by me to complete the book.
    chapter 2 - completed
-   Chapter 3 - Ongoing
+   Chapter 3 - comleted
 
 5. **Applied Questions**  
    Every question is applied and coded by me to complete the book.
